@@ -1,5 +1,5 @@
 # goswitch
-Portable Golang Projects (GOPATH activation script)
+Easy GOPATH switching
 
 A little script to help you manage your various Golang Projects and their individual GoPaths.
 

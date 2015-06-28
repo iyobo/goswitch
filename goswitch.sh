@@ -2,7 +2,7 @@
 # GoSwitch: Portable Go Projects by Iyobo Eki
 # 
 # A little script to help you manage your various Golang Projects and their individual GoPaths.
-# Simply put this script in the root directory of all your various GoPaths and run it with "source goActive.sh" to set that directory as your current active go project directory (or gopath). 
+# Simply put this script in the root directory of all your various GoPaths and run it with "source goswitch.sh" to set that directory as your current active go project directory (or gopath). 
 # The script will also add the bin folder of your project into your system path variable so you can run all your bins as you would any command line command e.g. 'beego run'
 
 # WARNING: This script will modify your PATH variable and likely other environmental variables.

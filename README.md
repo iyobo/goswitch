@@ -3,6 +3,9 @@ Easy GOPATH switching
 
 A little script to help you manage your various Golang Projects by keeping them portable with individual GoPaths.
 
+## Why Goswitch? 
+http://esific.com/goswitch-easy-gopath-switching/
+
 ## How to Run
 * Place this script in the root directory of all your various GoPaths/projects (not your sub-projects in 'src', but your actual gopath root directory).
 * Run it with "source goswitch.sh" or ". goswitch.sh" to activate this folder as your new gopath.
